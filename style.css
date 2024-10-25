@@ -1,0 +1,572 @@
+body{
+    background-color: rgb(155, 155, 155);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{ 
+    text-align: center;
+}
+
+table{ width: 70%;
+text-align: center;
+
+}
+
+td{ width: 5.5%;
+height: 10%;
+border-radius: 8px;
+border: solid 1px;
+}
+
+.num1{
+    text-align: left;
+}
+
+.num2{
+    text-align: left;
+}
+
+.num3{
+    text-align: left;
+}
+
+.num4{
+    text-align: left;
+}
+
+.num5{
+    text-align: left;
+}
+
+.num6{
+    text-align: left;
+}
+
+.num7{
+    text-align: left;
+}
+
+.num8{
+    text-align: left;
+}
+
+.num9{
+    text-align: left;
+}
+
+.num10{
+    text-align: left;
+}
+
+.num11{
+    text-align: left;
+}
+
+.num12{
+    text-align: left;
+}
+
+.num13{
+    text-align: left;
+}
+
+.num14{
+    text-align: left;
+}
+
+.num15{
+    text-align: left;
+}
+
+.num16{
+    text-align: left;
+}
+
+.num17{
+    text-align: left;
+}
+
+.num18{
+    text-align: left;
+}
+
+.num19{
+    text-align: left;
+}
+
+.num20{
+    text-align: left;
+}
+
+.num21{
+    text-align: left;
+}
+
+.num22{
+    text-align: left;
+}
+
+.num23{
+    text-align: left;
+}
+
+.num24{
+    text-align: left;
+}
+
+.num25{
+    text-align: left;
+}
+
+.num26{
+    text-align: left;
+}
+
+.num27{
+    text-align: left;
+}
+
+.num28{
+    text-align: left;
+}
+
+.num29{
+    text-align: left;
+}
+
+.num30{ 
+    text-align: left;
+}
+
+.num31{
+    text-align: left;
+}
+
+.num32{
+    text-align: left;
+}
+
+.num33{
+    text-align: left;
+}
+
+.num34{
+    text-align: left;
+}
+
+.num35{
+    text-align: left;
+}
+
+.num36{
+    text-align: left;
+}
+
+.num37{
+    text-align: left;
+}
+
+.num38{
+    text-align: left;
+}
+
+.num39{
+    text-align: left;
+}
+
+.num40{
+    text-align: left;
+}
+
+.num41{
+    text-align: left;
+}
+
+.num42{
+    text-align: left;
+}
+
+.num43{
+    text-align: left;
+}
+
+.num44{
+    text-align: left;
+}
+
+.num45{
+    text-align: left;
+}
+
+.num46{
+    text-align: left;
+}
+
+.num47{
+    text-align: left;
+}
+
+
+.num48{
+    text-align: left;
+}
+
+.num49{
+    text-align: left;
+}
+
+.num50{
+    text-align: left;
+}
+
+.num51{
+    text-align: left;
+}
+
+.num52{
+    text-align: left;
+}
+
+.num53{
+    text-align: left;
+}
+
+.num54{
+    text-align: left;
+}
+
+.num55{
+    text-align: left;
+}
+
+.num56{
+    text-align: left;
+}
+
+.num72{
+    text-align: left;
+}
+
+.num73{
+    text-align: left;
+}
+
+.num74{
+    text-align: left;
+}
+
+.num75{
+    text-align: left;
+}
+
+.num76{
+    text-align: left;
+}
+
+.num77{
+    text-align: left;
+}
+
+.num78{
+    text-align: left;
+}
+
+.num79{
+    text-align: left;
+}
+
+.num80{
+    text-align: left;
+}
+
+.num81{
+    text-align: left;
+}
+
+.num82{
+    text-align: left;
+}
+
+.num83{
+    text-align: left;
+}
+
+.num84{
+    text-align: left;
+}
+
+.num85{
+    text-align: left;
+}
+
+.num86{
+    text-align: left;
+}
+
+.num87{
+    text-align: left;
+}
+
+.num88{
+    text-align: left;
+}
+
+.num104{
+    text-align: left;
+}
+
+.num105{
+    text-align: left;
+}
+
+.num105{
+    text-align: left;
+}
+
+.num106{
+    text-align: left;
+}
+
+.num107{
+    text-align: left;
+}
+
+.num108{
+    text-align: left;
+}
+
+.num109{
+    text-align: left;
+}
+
+.num110{
+    text-align: left;
+}
+
+.num111{
+    text-align: left;
+}
+
+.num112{
+    text-align: left;
+}
+
+.num113{
+    text-align: left;
+}
+
+.num114{
+    text-align: left;
+}
+
+.num115{
+    text-align: left;
+}
+
+.num116{
+    text-align: left;
+}
+
+.num117{
+    text-align: left;
+}
+
+.num118{
+    text-align: left;
+}
+
+.num57{
+    text-align: left;
+}
+
+.num58{
+    text-align: left;
+}
+
+.num59{
+    text-align: left;
+}
+
+.num60{
+    text-align: left;
+}
+
+.num61{
+    text-align: left;
+}
+
+.num62{
+    text-align: left;
+}
+
+.num63{
+    text-align: left;
+}
+
+.num64{
+    text-align: left;
+}
+
+.num65{
+    text-align: left;
+}
+
+.num66{
+    text-align: left;
+}
+
+.num67{
+    text-align: left;
+}
+
+.num68{
+    text-align: left;
+}
+
+.num70{
+    text-align: left;
+}
+
+.num71{
+    text-align: left;
+}
+
+.num89{
+    text-align: left;
+}
+
+.num90{
+    text-align: left;
+}
+
+.num91{
+    text-align: left;
+}
+
+.num92{
+    text-align: left;
+}
+
+.num93{
+    text-align: left;
+}
+
+.num94{
+    text-align: left;
+}
+
+.num95{
+    text-align: left;
+}
+
+.num96{
+    text-align: left;
+}
+
+.num97{
+    text-align: left;
+}
+
+.num98{
+    text-align: left;
+}
+
+.num99{
+    text-align: left;
+}
+
+.num100{
+    text-align: left;
+}
+
+.num101{
+    text-align: left;
+}
+
+.num102{
+    text-align: left;
+}
+
+.num103{
+    text-align: left;
+}
+
+#Nmetal{
+    background-color: rgb(152, 218, 77);
+}
+
+#GasN{
+    background-color: rgb(46, 101, 184);
+}
+
+#MetalAlc{
+    background-color: rgb(192, 106, 44);
+}
+
+#MetalAlcTer{
+    background-color: rgb(224, 221, 39);
+}
+
+#MetalTrans{
+    background-color: rgb(231, 144, 144);
+}
+
+#SemiMt{
+    background-color: rgb(30, 173, 126);
+}
+
+#OutrosMt{
+    background-color: rgb(149, 192, 231);
+}
+
+#Halog{
+    background-color: rgb(94, 157, 209);
+}
+
+#Lanta{
+    background-color: rgb(133, 209, 228);
+}
+
+#Actin{
+    background-color: rgb(243, 177, 243);
+}
+
+#NmetalLeg{
+    color: rgb(152, 218, 77);
+}
+
+#GasNLeg{
+    color: rgb(46, 101, 184);
+}
+
+#MetalAlcLeg{
+    color: rgb(192, 106, 44);
+}
+
+#MetalAlcTerLeg{
+    color: rgb(224, 221, 39);
+}
+
+#SemiMtLeg{
+    color: rgb(21, 124, 52);
+}
+
+#HalogLeg{
+    color: rgb(70, 147, 209);
+}
+
+#OutrosMtLeg{
+    color: rgb(149, 192, 231);
+}
+
+#MetalTransLeg{
+    color: rgb(231, 129, 129);
+}
+
+#LantaLeg{
+    color: rgb(133, 209, 228)
+}
+
+#ActinLeg{
+    color: rgb(243, 177, 243);
+}
